@@ -7,6 +7,10 @@ This repo contains example repositories to be used with [[https://github.com/kh3
   unmerged feature branch. Intended to be used to show the difference
   between fast-forward, merge and rebase.
 
+- =references= Contains dummy commits on a merged branch and on
+  master. A tag also exists, and the tagged commit has a distinct name
+  enough to use for =:/= syntax referencing;
+
 - =bisect= Contains a makefile that takes 10s to run, at some point it
   used to take 5s. To find the culprit commit:
   #+BEGIN_SRC sh
