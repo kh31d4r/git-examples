@@ -11,6 +11,10 @@ This repo contains example repositories to be used with [[https://github.com/kh3
   master. A tag also exists, and the tagged commit has a distinct name
   enough to use for =:/= syntax referencing;
 
+- =rebase= Contains a single file in a single branch, with some
+  commits that adds easily trace:able content. It also contains a
+  makefile which fails in one commit, to be able to show exec.
+
 - =bisect= Contains a makefile that takes 10s to run, at some point it
   used to take 5s. To find the culprit commit:
   #+BEGIN_SRC sh
