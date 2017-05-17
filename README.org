@@ -1,0 +1,4 @@
+#+TITLE: Git repository examples
+#+AUTHOR: Daniel Persson
+
+This repo contains example repositories to be used with [[https://github.com/kh31d4r/git-demo-tools][Git Demo Tools]].
