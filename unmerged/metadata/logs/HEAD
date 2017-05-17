@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 e4f597aebcc10febbd2b692f8282a03d9a58c30b Daniel Persson <daniel@silvertejp.org> 1495058729 +0200	commit (initial): Change in master
+e4f597aebcc10febbd2b692f8282a03d9a58c30b 4c42d38a82cd991d42aa28f3cb755806af2c6566 Daniel Persson <daniel@silvertejp.org> 1495058729 +0200	commit: Change in master
+4c42d38a82cd991d42aa28f3cb755806af2c6566 4d8322b89b4b674476ac4acd7ff9770764d0c423 Daniel Persson <daniel@silvertejp.org> 1495058729 +0200	commit: Change in master
+4d8322b89b4b674476ac4acd7ff9770764d0c423 04c19c0b0bf22b1ab9ab11928facc6dee0a6e8c5 Daniel Persson <daniel@silvertejp.org> 1495058731 +0200	commit: Change in master
+04c19c0b0bf22b1ab9ab11928facc6dee0a6e8c5 3d933c936b59be8e574488ce81f38feee6e2944d Daniel Persson <daniel@silvertejp.org> 1495058731 +0200	commit: Change in master
+3d933c936b59be8e574488ce81f38feee6e2944d b18901e5da982e9f7e883bf05fab7d7c972aeac8 Daniel Persson <daniel@silvertejp.org> 1495058731 +0200	commit: Change in master
+b18901e5da982e9f7e883bf05fab7d7c972aeac8 4c42d38a82cd991d42aa28f3cb755806af2c6566 Daniel Persson <daniel@silvertejp.org> 1495058744 +0200	checkout: moving from master to feature
+4c42d38a82cd991d42aa28f3cb755806af2c6566 4d8322b89b4b674476ac4acd7ff9770764d0c423 Daniel Persson <daniel@silvertejp.org> 1495058757 +0200	merge 4d83: Fast-forward
+4d8322b89b4b674476ac4acd7ff9770764d0c423 9be8b981f0869495c63bd6dea9cda93d1b5e9def Daniel Persson <daniel@silvertejp.org> 1495058780 +0200	commit: Change in master
+9be8b981f0869495c63bd6dea9cda93d1b5e9def aa11b080261ac0a9accaa4c5f984bb39e3ecc872 Daniel Persson <daniel@silvertejp.org> 1495058780 +0200	commit: Change in master
+aa11b080261ac0a9accaa4c5f984bb39e3ecc872 b18901e5da982e9f7e883bf05fab7d7c972aeac8 Daniel Persson <daniel@silvertejp.org> 1495058787 +0200	checkout: moving from feature to master
+b18901e5da982e9f7e883bf05fab7d7c972aeac8 aa11b080261ac0a9accaa4c5f984bb39e3ecc872 Daniel Persson <daniel@silvertejp.org> 1495059061 +0200	checkout: moving from master to feature
+aa11b080261ac0a9accaa4c5f984bb39e3ecc872 4d8322b89b4b674476ac4acd7ff9770764d0c423 Daniel Persson <daniel@silvertejp.org> 1495059087 +0200	rebase -i (start): checkout @^^^^
+4d8322b89b4b674476ac4acd7ff9770764d0c423 9be8b981f0869495c63bd6dea9cda93d1b5e9def Daniel Persson <daniel@silvertejp.org> 1495059087 +0200	cherry-pick: fast-forward
+9be8b981f0869495c63bd6dea9cda93d1b5e9def abacc5482ceb74e85d1b719fd5af1bb62c17287e Daniel Persson <daniel@silvertejp.org> 1495059087 +0200	rebase -i (reword): Change in feature
+abacc5482ceb74e85d1b719fd5af1bb62c17287e 32a81e7d155498a1ffc36e9200bf6783c73e803d Daniel Persson <daniel@silvertejp.org> 1495059093 +0200	rebase -i (reword): Change in master
+32a81e7d155498a1ffc36e9200bf6783c73e803d d2258cc3b6b0f8e30699b787f2a5f8070038fbe7 Daniel Persson <daniel@silvertejp.org> 1495059093 +0200	rebase -i (reword): Change in feature
+d2258cc3b6b0f8e30699b787f2a5f8070038fbe7 d2258cc3b6b0f8e30699b787f2a5f8070038fbe7 Daniel Persson <daniel@silvertejp.org> 1495059099 +0200	rebase -i (finish): returning to refs/heads/feature
+d2258cc3b6b0f8e30699b787f2a5f8070038fbe7 b18901e5da982e9f7e883bf05fab7d7c972aeac8 Daniel Persson <daniel@silvertejp.org> 1495059104 +0200	checkout: moving from feature to master

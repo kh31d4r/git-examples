@@ -2,3 +2,7 @@
 #+AUTHOR: Daniel Persson
 
 This repo contains example repositories to be used with [[https://github.com/kh31d4r/git-demo-tools][Git Demo Tools]].
+
+- =unmerged= Contains dummy commits on the master branch and an
+  unmerged feature branch. Intended to be used to show the difference
+  between fast-forward, merge and rebase.

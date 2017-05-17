@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 4c42d38a82cd991d42aa28f3cb755806af2c6566 Daniel Persson <daniel@silvertejp.org> 1495058744 +0200	branch: Created from @^^^^
+4c42d38a82cd991d42aa28f3cb755806af2c6566 4d8322b89b4b674476ac4acd7ff9770764d0c423 Daniel Persson <daniel@silvertejp.org> 1495058757 +0200	merge 4d83: Fast-forward
+4d8322b89b4b674476ac4acd7ff9770764d0c423 9be8b981f0869495c63bd6dea9cda93d1b5e9def Daniel Persson <daniel@silvertejp.org> 1495058780 +0200	commit: Change in master
+9be8b981f0869495c63bd6dea9cda93d1b5e9def aa11b080261ac0a9accaa4c5f984bb39e3ecc872 Daniel Persson <daniel@silvertejp.org> 1495058780 +0200	commit: Change in master
+aa11b080261ac0a9accaa4c5f984bb39e3ecc872 d2258cc3b6b0f8e30699b787f2a5f8070038fbe7 Daniel Persson <daniel@silvertejp.org> 1495059099 +0200	rebase -i (finish): refs/heads/feature onto 4d8322b89b4b674476ac4acd7ff9770764d0c423
