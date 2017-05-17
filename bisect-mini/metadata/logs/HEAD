@@ -1,0 +1,48 @@
+0000000000000000000000000000000000000000 8cd019a3c98e20067a4e73587d8762e73bef49ab Daniel Persson <daniel@silvertejp.org> 1495059902 +0200	commit (initial): Added Makefile
+8cd019a3c98e20067a4e73587d8762e73bef49ab 2d4f51e84024d90e99acc6aa41e1ef7b9c8f700d Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #1
+2d4f51e84024d90e99acc6aa41e1ef7b9c8f700d 6f59e5d2bbd7e60ea0ff4ad453b0b26f78f25100 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #2
+6f59e5d2bbd7e60ea0ff4ad453b0b26f78f25100 1af07a4cb45e60f94b9ca4c1345e738d53d9d71f Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #3
+1af07a4cb45e60f94b9ca4c1345e738d53d9d71f 6b0b9a164a45428a60d38ebf79e52b9c5d988254 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #4
+6b0b9a164a45428a60d38ebf79e52b9c5d988254 e64a8b456f65200451047d5c110087e67cf1eddf Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #5
+e64a8b456f65200451047d5c110087e67cf1eddf d6e4d854cb61c751659a41836bb542a0d66d3958 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #6
+d6e4d854cb61c751659a41836bb542a0d66d3958 7bf3cb46d41dc72b8a0950d21d2b5b6b38166f6a Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #7
+7bf3cb46d41dc72b8a0950d21d2b5b6b38166f6a a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #8
+a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 1cdef9a8ee561e5420c374ed82d00d0b00dc82c6 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #9
+1cdef9a8ee561e5420c374ed82d00d0b00dc82c6 100ab5ed420952dbb7d37ef67fd49c22bb95344e Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #10
+100ab5ed420952dbb7d37ef67fd49c22bb95344e fa46124bb1297986139408c47ed862f27f8c0441 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #11
+fa46124bb1297986139408c47ed862f27f8c0441 b075e9763a773fc5f52111f07febd6a88aefd7da Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #12
+b075e9763a773fc5f52111f07febd6a88aefd7da da24d1f61358b314af703429a023e836a2be3d05 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #13
+da24d1f61358b314af703429a023e836a2be3d05 61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #14
+61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b b303dc6b35af3c337cd9abd46efaf14235b6b366 Daniel Persson <daniel@silvertejp.org> 1495059940 +0200	commit: Important change #15
+b303dc6b35af3c337cd9abd46efaf14235b6b366 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab Daniel Persson <daniel@silvertejp.org> 1495060006 +0200	commit: Makefile changed
+7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab d55047a2e9840e203f44dda2e901b229d5aa2558 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #1
+d55047a2e9840e203f44dda2e901b229d5aa2558 583eaba2018670f1d2b8bc40ca857776afe69c18 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #2
+583eaba2018670f1d2b8bc40ca857776afe69c18 c1eba25b9c381eb59a2c8daea65edfc8e161ee4d Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #3
+c1eba25b9c381eb59a2c8daea65edfc8e161ee4d 657daef13926745b639cdfbf333faf52e201f93c Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #4
+657daef13926745b639cdfbf333faf52e201f93c ec4fdcb35a4c586ba45daee1a7584556eb880ded Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #5
+ec4fdcb35a4c586ba45daee1a7584556eb880ded 0b75f202d736469319ca4f910697bc2c64fc7127 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #6
+0b75f202d736469319ca4f910697bc2c64fc7127 ed67493e3356c3545c04daea878defc80f1b506b Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #7
+ed67493e3356c3545c04daea878defc80f1b506b 9dbd34dee2fc1fa203cbd6e90494e9dbe5f02d9e Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #8
+9dbd34dee2fc1fa203cbd6e90494e9dbe5f02d9e 1c0c2243b5c17f61b0f8b4e5e1361aad6262ea27 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #9
+1c0c2243b5c17f61b0f8b4e5e1361aad6262ea27 136ab8588057f63e24cf2f3b8b51b1bf5af84ade Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #10
+136ab8588057f63e24cf2f3b8b51b1bf5af84ade c9f304a8d7ee82c84af0a393744e64fd0cc98529 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #11
+c9f304a8d7ee82c84af0a393744e64fd0cc98529 2de2ffdf24908dae55b6538f750932c35376fd99 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #12
+2de2ffdf24908dae55b6538f750932c35376fd99 c58957f68c4bce0fccff76953cb8f16a9439c5f5 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #13
+c58957f68c4bce0fccff76953cb8f16a9439c5f5 cd0c2fdcd1feea0c6699b783988a0e9c86488d50 Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #14
+cd0c2fdcd1feea0c6699b783988a0e9c86488d50 e706df9d6fa03fe8a68c59e541d1d26572aff73a Daniel Persson <daniel@silvertejp.org> 1495060022 +0200	commit: Rushed change #15
+e706df9d6fa03fe8a68c59e541d1d26572aff73a 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab Daniel Persson <daniel@silvertejp.org> 1495060294 +0200	checkout: moving from master to 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab
+7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 Daniel Persson <daniel@silvertejp.org> 1495060316 +0200	checkout: moving from 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab to a11b66639d8dc4f9e1e1ceafea164e2151da8cc3
+a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 6b0b9a164a45428a60d38ebf79e52b9c5d988254 Daniel Persson <daniel@silvertejp.org> 1495060323 +0200	checkout: moving from a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 to 6b0b9a164a45428a60d38ebf79e52b9c5d988254
+6b0b9a164a45428a60d38ebf79e52b9c5d988254 1af07a4cb45e60f94b9ca4c1345e738d53d9d71f Daniel Persson <daniel@silvertejp.org> 1495060330 +0200	checkout: moving from 6b0b9a164a45428a60d38ebf79e52b9c5d988254 to 1af07a4cb45e60f94b9ca4c1345e738d53d9d71f
+1af07a4cb45e60f94b9ca4c1345e738d53d9d71f e706df9d6fa03fe8a68c59e541d1d26572aff73a Daniel Persson <daniel@silvertejp.org> 1495060344 +0200	checkout: moving from 1af07a4cb45e60f94b9ca4c1345e738d53d9d71f to master
+e706df9d6fa03fe8a68c59e541d1d26572aff73a 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab Daniel Persson <daniel@silvertejp.org> 1495060354 +0200	checkout: moving from master to 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab
+7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab e706df9d6fa03fe8a68c59e541d1d26572aff73a Daniel Persson <daniel@silvertejp.org> 1495060362 +0200	checkout: moving from 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab to master
+e706df9d6fa03fe8a68c59e541d1d26572aff73a 2d4f51e84024d90e99acc6aa41e1ef7b9c8f700d Daniel Persson <daniel@silvertejp.org> 1495060413 +0200	checkout: moving from master to v1.0.0
+2d4f51e84024d90e99acc6aa41e1ef7b9c8f700d e706df9d6fa03fe8a68c59e541d1d26572aff73a Daniel Persson <daniel@silvertejp.org> 1495060430 +0200	checkout: moving from 2d4f51e84024d90e99acc6aa41e1ef7b9c8f700d to master
+e706df9d6fa03fe8a68c59e541d1d26572aff73a 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab Daniel Persson <daniel@silvertejp.org> 1495060465 +0200	checkout: moving from master to 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab
+7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 Daniel Persson <daniel@silvertejp.org> 1495060477 +0200	checkout: moving from 7687a462bb8a874cb5af4bcbaa701a6efdf6f3ab to a11b66639d8dc4f9e1e1ceafea164e2151da8cc3
+a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 b075e9763a773fc5f52111f07febd6a88aefd7da Daniel Persson <daniel@silvertejp.org> 1495060487 +0200	checkout: moving from a11b66639d8dc4f9e1e1ceafea164e2151da8cc3 to b075e9763a773fc5f52111f07febd6a88aefd7da
+b075e9763a773fc5f52111f07febd6a88aefd7da 61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b Daniel Persson <daniel@silvertejp.org> 1495060497 +0200	checkout: moving from b075e9763a773fc5f52111f07febd6a88aefd7da to 61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b
+61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b b303dc6b35af3c337cd9abd46efaf14235b6b366 Daniel Persson <daniel@silvertejp.org> 1495060507 +0200	checkout: moving from 61fdba3a645c3d9f3e07ccc8d21192fc2bc2190b to b303dc6b35af3c337cd9abd46efaf14235b6b366
+b303dc6b35af3c337cd9abd46efaf14235b6b366 e706df9d6fa03fe8a68c59e541d1d26572aff73a Daniel Persson <daniel@silvertejp.org> 1495060538 +0200	checkout: moving from b303dc6b35af3c337cd9abd46efaf14235b6b366 to master
+e706df9d6fa03fe8a68c59e541d1d26572aff73a 0d414338abdf6e70d3fff2ee8835b8d01e06f8cf Daniel Persson <daniel@silvertejp.org> 1495060576 +0200	commit: Final change

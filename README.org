@@ -6,3 +6,17 @@ This repo contains example repositories to be used with [[https://github.com/kh3
 - =unmerged= Contains dummy commits on the master branch and an
   unmerged feature branch. Intended to be used to show the difference
   between fast-forward, merge and rebase.
+
+- =bisect= Contains a makefile that takes 10s to run, at some point it
+  used to take 5s. To find the culprit commit:
+  #+BEGIN_SRC sh
+    git bisect start
+    git bisect bad         # default is HEAD
+    git bisect good v2.0.0 # the last release
+    git bisect run timeout 7 make
+  #+END_SRC
+
+- =bisect-mini= Contains only 32 commits, to fit the whole history on
+  the screen at once, and the build takes twice as long, to allow for
+  commentary while the bisect runs (make sure to increase timeout to
+  12s).
